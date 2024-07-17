@@ -1,2 +1,2 @@
-# 3odaysOfJs
+# 30daysOfJs
 This is my first Git Repository.
