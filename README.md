@@ -1,2 +1,2 @@
-# 30daysOfJs
+# 10daysOfJs
 
